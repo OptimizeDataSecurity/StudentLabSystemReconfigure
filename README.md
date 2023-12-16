@@ -1,7 +1,7 @@
 <h1>Student Lab - Server & Desktop  Reconfiguration</h1>
 
 <h2>Description</h2>
-With a comprehensive skill set spanning Active Directory administration, cyber threat monitoring, and vulnerability management, I seamlessly orchestrated the setup of a cutting-edge computer lab for educational workshops. Leveraging advanced PowerShell Automation techniques, I ensured the integration of Active Directory, guaranteeing seamless user authentication and efficient group policy management. Demonstrating my networking expertise in TCP/IP, I established a robust foundation with impeccable installation, configuration, and maintenance of DHCP and DNS systems. Mastery in server environments, including Server 2016/19, Mac OSX, Office 365, and Windows 10/11, translated into an expertly managed ecosystem, complemented by award-winning customer service and incident management. I further performed hardware setup, diagnosis, and upgrade proficiency, including network systems installation and oversight of the system and network security. Application installation, service desk support through a ticket system, and technical troubleshooting added to the holistic approach, creating a comprehensive and well-rounded learning environment. The incorporation of cloud computing, networking, and security, along with expertise in virtual private network configuration, VMWare, and Hyper-V configuration, is on the horizon for this Lab to enhance the lab's capabilities. A commitment to staying at the forefront of the IT landscape ensures the lab reflects the latest industry trends, providing students with a secure and dynamic learning environment.
+With a comprehensive skill set spanning across Active Directory administration, and various User System Applications, I seamlessly coordinated & managed the setup/reconfiguration of our Student Computer lab for educational workshops. Leveraging advanced PowerShell Automation techniques, I ensured the integration of Active Directory, guaranteeing seamless user authentication and efficient group policy management. Demonstrating my networking expertise in TCP/IP, I established a robust foundation with impeccable installation, configuration, and maintenance of DHCP and DNS systems. Mastery in server environments, including Server 2016/19, Mac OSX, Office 365, and Windows 10/11, translated into an expertly managed ecosystem, complemented by award-winning customer service and incident management. I further performed hardware setup, diagnosis, and upgrade proficiency, including network systems installation and oversight of the system and network security. Application installation, service desk support through a ticket system, and technical troubleshooting added to the holistic approach, creating a comprehensive and well-rounded learning environment. The incorporation of cloud computing, networking, and security, along with expertise in virtual private network configuration, VMWare, and Hyper-V configuration, is on the horizon for this Lab to enhance the lab's capabilities. A commitment to staying at the forefront of the IT landscape ensures the lab reflects the latest industry trends, providing students with a secure and dynamic learning environment.
 <br />
 
 <h2>Environments Used </h2>
@@ -14,67 +14,73 @@ With a comprehensive skill set spanning Active Directory administration, cyber t
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Orchestrating a flawless computer lab setup with hardware utilization: <br/>
-<img src="https://imgur.com/LcueU06.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+Coordinating Computer Lab setup with legacy Hardware and Cables: <br/>
+<img src="https://imgur.com/kbWE1Cg.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 <br />
 <br />
-Initiating the computer lab setup with hardware utilization:  <br/>
-<img src="https://imgur.com/RRR4doJ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
-<br />
-<br />Configuring Active Directory seamlessly using advanced PowerShell Automation: <br/>
-<img src="https://imgur.com/TRpzBqJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/z1CVC72.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 <br />
 <br />
-Ensuring smooth user authentication and efficient group policy management:  <br/>
-<img src="https://imgur.com/8HfD1dk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/DirJJ4a.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 <br />
 <br />
-Establishing a robust network foundation with TCP/IP expertise:  <br/>
-<img src="https://imgur.com/7bndpZU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Sourcing the appropriate peripherals & Hardware for computer lab setup:  <br/>
+<img src="https://imgur.com/XDTYxdX.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 <br />
 <br />
-Impeccably installing, configuring, and maintaining DHCP and DNS systems:  <br/>
- <img src="https://imgur.com/NMT4mvL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/KmPyfuO.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<br />
+<br /> 
+Configuring and Set-up of Remote Printing Functionality: <br/>
+<img src="https://imgur.com/7eDRB6e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Managing server environments, including Server 2016/19, Mac OSX, Office 365, and Windows 10/11:  <br/>
-<img src="https://imgur.com/6DZJi3N.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+More peripherals & Legacy Systems for computer lab setup: <br/>
+<img src="https://imgur.com/IZT5rob.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://imgur.com/21TLy3F.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<br />
+<br />
+<img src="https://imgur.com/cYW1K3j.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<br />
+<br />
+<img src="https://imgur.com/D9m8rzH.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<br />
+<br />
+<img src="https://imgur.com/p7mpzL5.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<br />
+<br />
+Configuring Active Directory seamlessly using PowerShell Automation: <br/>
+<img src="https://imgur.com/d8bJ6wS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Ensuring smooth user authentication and efficient group policy management while Team continues to work:  <br/>
+<img src="https://imgur.com/nyWedoX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Performing hardware setup, diagnosis, and upgrades for optimal performance: <br/>
-<img src="https://imgur.com/RLiGSgp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/gRhRQOC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Establishing a robust network foundation with TCP/IP expertise:  <br/>
+<img src="https://imgur.com/PyAcbRC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Installing and configuring network systems to enhance connectivity:  <br/>
-<img src="https://imgur.com/zXiJ17O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/B89LOFb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Overseeing system and network security to create a protected learning environment:  <br/>
-<img src="https://imgur.com/d2P9Y0S.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+Managing server environments, including Server 2016/19, Mac OSX, Office 365, and Windows 10/11:  <br/>
+<img src="https://imgur.com/PyAcbRC.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 <br />
 <br />
 Streamlining application installation to support diverse educational software needs: <br/>
-<img src=https://imgur.com/rvBW65G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://imgur.com/LmRVhN0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Offering efficient service desk support through a ticket system: <br/>
-<img src=https://imgur.com/cc8LdwG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Expertly addressing technical issues through systematic troubleshooting: <br/>
-<img src=https://imgur.com/MjP6RGp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Strengthening networking capabilities to meet diverse workshop requirements:  <br/>
-<img src="https://imgur.com/fzHgzvq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Creating a well-rounded learning environment with enhanced capabilities:  <br/>
-<img src="https://imgur.com/fzHgzvq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-  Finalizing the comprehensive setup with all systems seamlessly integrated:  <br/>
-<img src="https://imgur.com/NTNNKju.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Finalizing the comprehensive setup with all systems seamlessly integrated:  <br/>
+<img src="https://imgur.com/7RJ8SPv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
