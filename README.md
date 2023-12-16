@@ -63,10 +63,6 @@ Performing hardware setup, diagnosis, and upgrades for optimal performance: <br/
 <img src="https://imgur.com/gRhRQOC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Establishing a robust network foundation with TCP/IP expertise:  <br/>
-<img src="https://imgur.com/PyAcbRC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 Installing and configuring network systems to enhance connectivity:  <br/>
 <img src="https://imgur.com/B89LOFb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
